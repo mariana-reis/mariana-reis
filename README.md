@@ -1,9 +1,12 @@
 ## Mariana Reis
 
-<div align="center">
+<div align="center">  
   <a href="https://github.com/mariana-reis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariana-reis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-reis&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariana-reis&show_icons=true&include_all_commits=true&theme=dracula&" alt="Anurag's github stats" /></a> 
+  <a href="https://github.com/mariana-reis">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-reis&layout=compact&theme=dracula" />
+  </a> 
+
 </div>
 
 <div style="display: inline_block"><br>
