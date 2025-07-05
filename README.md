@@ -25,7 +25,9 @@
   <img align="center" alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /> 
 </div>
 
-##
+## 
+
+[![GitHub Foundations - Credly](https://img.shields.io/badge/Certificação-GitHub%20Foundations-black?logo=github)](https://www.credly.com/badges/824cb79f-457b-4d07-af09-20efdc3a31c4)
 
 <div> 
   <a href="https://www.linkedin.com/in/marianasilvaa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
