@@ -69,7 +69,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://komarev.com/ghpvc/?username=mariana-reis&color=blueviolet&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=mariana-reis&color=blueviolet&style=for-the-badge&label=Views" alt="Profile views"/>
 
 <br>
 
